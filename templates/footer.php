@@ -1,7 +1,7 @@
 <html>
 <body>
 <footer>
-    <p>Hora de codar &copy; 2025</p>
+    <p>Time to code &copy; 2025</p>
 </footer>
 </body>
 </html>
